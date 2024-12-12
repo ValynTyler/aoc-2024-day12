@@ -2,7 +2,7 @@
 #define CROPS
 
 struct Crops {
-  char crops[200][200];
+  char crops[400][400];
   int width, height;
 
   Crops();
